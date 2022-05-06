@@ -1,3 +1,7 @@
+| :point_up:    | Support to get errors on the Kibana dashboard was a missing feature and was introduced in apm-agent-php 1.4.1 [#409](https://github.com/elastic/apm-agent-php/issues/409) |
+|---------------|:------------------------|
+
+
 # Elastic APM + Kibana + A simple PHP project
 Elastic APM & Kibana dev environment with a simple PHP project to test apm-agent-php.
 
